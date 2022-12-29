@@ -7,7 +7,7 @@ function Banner() {
             />
 
     <div className='absolute top-1/2 w-full text-center'>
-        <p className="text-2xl md:text-3xl font-mono md:font-bold bg-white m-32 -mt-20  text-blue-800">
+        <p className="text-sm md:text-2xl font-mono md:font-bold bg-white m-32 -mt-20  text-blue-800">
             All Coffee in affordable price
         </p>
        
