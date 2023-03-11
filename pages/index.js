@@ -24,7 +24,7 @@ export default function Home() {
         <main  className='max-w-7xl mx-auto px-8 sm:px-16'>
         <section>
           <h2 className='text-3xl font-semibold '>
-          Different Types of Coffee
+          Different Types of Coffee 2 dev version
           </h2>
           <div className='flex md:mt-16 space-x-3 overflow-scroll scrollbar-hide p-3'> 
             
